@@ -70,15 +70,6 @@ Sr. Product Manager           →   Pentair          (Aug 2009 – May 2013)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitgambhir&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitgambhir&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 - 🌐 **Portfolio:** [amitgambhir.com](https://amitgambhir.com)
