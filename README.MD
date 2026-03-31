@@ -55,18 +55,17 @@ Right now, my focus is on **bringing LLM and RAG capabilities out of the demo st
 
 - 🏆 AWS Certified Solutions Architect – Associate
 - ☁️ AWS Certified Cloud Practitioner
-- 🔐 AWS Security Fundamentals
-- 🤖 AI Solutions Architect Training
 
 ---
 
 ## 💼 Career Snapshot
 
 ```
-Principal TPM / TPgM   →   Asurion          (Dec 2023 – Present)
-Sr. TPM                →   Asurion          (Jan 2017 – Dec 2023)
-Sr. Data/Product Analyst →  Fannie Mae      (Jan 2015 – Jan 2017)
-Manager, Product Mgmt  →   Pentair          (Aug 2009 – May 2013)
+Principal Solution Architect
+/ Tech Prog Manager           →   Asurion          (Dec 2023 – Present)
+Sr. Tech Prog Manager         →   Asurion          (Jan 2017 – Dec 2023)
+Sr. Data/Product Analyst      →   Fannie Mae       (Jan 2015 – Jan 2017)
+Sr. Product Manager           →   Pentair          (Aug 2009 – May 2013)
 ```
 
 ---
