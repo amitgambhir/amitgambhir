@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Amit Gambhir
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Principal+Technical+Product+&+Program+Leader;AI+Platforms+%7C+RAG+%7C+LLM+Orchestration;Developer+Experience+%7C+Cloud+Transformation;15%2B+Years+Turning+Vision+into+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Principal+Technical+Product+Leader;AI+Platforms+%7C+RAG+%7C+LLM+Orchestration;Developer+Experience+%7C+Cloud+Transformation;15%2B+Years+Turning+Vision+into+Production" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -25,7 +25,7 @@
 
 ## 🧭 About Me
 
-> *"I'm the person teams call when the program is complex, the architecture isn't settled, and six teams need to ship as one."*
+> *"I'm the person teams call when the program is complex, the architecture isn't settled, and multiple teams need to ship as one."*
 
 For **15+ years**, I've been turning ambiguous, high-stakes technical challenges into production-grade systems — across **AI/GenAI platforms**, **enterprise APIs**, **cloud modernization**, and **developer ecosystems**.
 
