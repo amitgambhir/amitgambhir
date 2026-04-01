@@ -67,7 +67,7 @@ I write about **AI product strategy**, **developer platforms**, and what it actu
 
 <div align="center">
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitgambhir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=amitgambhir&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
