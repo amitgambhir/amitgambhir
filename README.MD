@@ -1,17 +1,21 @@
-<!-- Header Banner -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amit%20Gambhir&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Principal%20Technical%20Product%20%26%20Program%20Leader&descAlignY=58&descSize=18&descColor=a8d8ea)
+# 👋 Hi, I'm Amit Gambhir
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Principal+Technical+Product+Leader;AI+Platforms+%7C+RAG+%7C+LLM+Orchestration;Developer+Experience+%7C+Cloud+Transformation;15%2B+Years+Turning+Vision+into+Production" alt="Typing SVG" />
+</a>
 
-<!-- Badges Row -->
-<div align="center">
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-amitgambhir.com-2c5364?style=for-the-badge&logoColor=white)](https://amitgambhir.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitgambhir)
-[![GitHub](https://img.shields.io/badge/GitHub-amitgambhir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitgambhir)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gambhir.amit@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amitgambhir.com-2c5364?style=for-the-badge)](https://amitgambhir.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitgambhir)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitgambhir)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gambhir.amit@gmail.com)
 
 </div>
 
@@ -66,30 +70,32 @@ I operate at the **intersection of product strategy and deep technical execution
 
 ![REST](https://img.shields.io/badge/RESTful%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI%2FSwagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Developer Experience](https://img.shields.io/badge/Developer%20Experience-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Partner Integrations](https://img.shields.io/badge/Partner%20Integrations-FF6D00?style=flat-square)
+![DX](https://img.shields.io/badge/Developer%20Experience-0052CC?style=flat-square&logo=confluence&logoColor=white)
+![Integrations](https://img.shields.io/badge/Partner%20Integrations-FF6D00?style=flat-square&logo=zapier&logoColor=white)
 
 **📋 Product & Program Leadership**
 
 ![Roadmap](https://img.shields.io/badge/Roadmaps%20%26%20OKRs-0A66C2?style=flat-square&logo=notion&logoColor=white)
-![0→1](https://img.shields.io/badge/0→1%20Launches-E91E63?style=flat-square)
-![Cross-Functional](https://img.shields.io/badge/Cross--Functional%20Leadership-7B1FA2?style=flat-square)
-![Stakeholder](https://img.shields.io/badge/Stakeholder%20Management-1565C0?style=flat-square)
+![Launches](https://img.shields.io/badge/0→1%20Launches-E91E63?style=flat-square&logo=producthunt&logoColor=white)
+![XFN](https://img.shields.io/badge/Cross--Functional%20Leadership-7B1FA2?style=flat-square&logo=microsoftteams&logoColor=white)
+![Stakeholder](https://img.shields.io/badge/Stakeholder%20Management-1565C0?style=flat-square&logo=googlemeet&logoColor=white)
 
 ---
 
 ## ✍️ Blogs & Builds
 
-> I write and think out loud about **AI product strategy**, **developer platforms**, and what it actually takes to ship GenAI in the enterprise.
+> I write and think out loud about **AI product strategy**, **developer platforms**, and what it actually takes to ship GenAI in the enterprise — moving past the hype into things that work at scale.
 
-| | |
+🌐 **[amitgambhir.com](https://amitgambhir.com)** — My home for product thinking, AI leadership, and platform strategy
+
+| Topic | What I Explore |
 |---|---|
-| 🌐 **Portfolio & Writing** | [amitgambhir.com](https://amitgambhir.com) — product thinking, AI leadership, and platform strategy |
-| 🤖 **AI in the Enterprise** | Exploring how LLMs move from promising demos to production-grade systems |
+| 🤖 **AI in the Enterprise** | How LLMs move from promising demos to production-grade systems |
 | 🔌 **Developer Platform Thinking** | What great DX looks like when your customer is an engineer |
-| 📐 **Platform Primitives** | How to build shared services that teams actually want to adopt |
+| 📐 **Platform Primitives** | Building shared services that teams actually want to adopt |
+| 🧠 **Tech Product Leadership in AI** | Strategy, trade-offs, and execution at the intersection of PM and engineering |
 
-*Follow along → [amitgambhir.com](https://amitgambhir.com) · [LinkedIn](https://linkedin.com/in/amitgambhir)*
+*→ Read more at [amitgambhir.com](https://amitgambhir.com) · Connect on [LinkedIn](https://linkedin.com/in/amitgambhir)*
 
 ---
 
@@ -97,9 +103,9 @@ I operate at the **intersection of product strategy and deep technical execution
 
 <div align="center">
 
-![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AI Arch](https://img.shields.io/badge/AI%20Solutions%20Architect-Training-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AI Arch](https://img.shields.io/badge/AI_Solutions_Architect-Training-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -108,10 +114,10 @@ I operate at the **intersection of product strategy and deep technical execution
 ## 💼 Career Snapshot
 
 ```
-🏢 Principal TPM / TPgM    →   Asurion       Dec 2023 – Present
-🏢 Sr. Technical PM        →   Asurion       Jan 2017 – Dec 2023
-🏦 Sr. Data/Product Analyst →  Fannie Mae    Jan 2015 – Jan 2017
-🏭 Manager, Product Mgmt   →   Pentair       Aug 2009 – May 2013
+🏢  Principal TPM / TPgM     →   Asurion        Dec 2023 – Present
+🏢  Sr. Technical PM         →   Asurion        Jan 2017 – Dec 2023
+🏦  Sr. Data/Product Analyst  →   Fannie Mae     Jan 2015 – Jan 2017
+🏭  Manager, Product Mgmt    →   Pentair        Aug 2009 – May 2013
 ```
 
 ---
@@ -128,11 +134,12 @@ I operate at the **intersection of product strategy and deep technical execution
 
 ---
 
-<!-- Footer -->
 <div align="center">
 
 *"Great products don't come from great demos — they come from teams that can hold a technical vision and an execution plan in the same hand."*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_amitgambhir.com-Visit_My_Site-2c5364?style=for-the-badge)](https://amitgambhir.com)
 
 </div>
