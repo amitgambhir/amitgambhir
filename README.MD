@@ -57,7 +57,7 @@ I write about **AI product strategy**, **developer platforms**, and what it actu
 
 <br/>
 
-[![Read More](https://img.shields.io/badge/✍️_Read_My_Writing-amitgambhir.com-2c5364?style=for-the-badge)](https://amitgambhir.com)
+[![Read More](https://img.shields.io/badge/✍️_Read_My_Writing_&_Builds-amitgambhir.com-2c5364?style=for-the-badge)](https://amitgambhir.com)
 
 </div>
 
