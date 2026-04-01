@@ -104,7 +104,7 @@ I operate at the **intersection of product strategy and deep technical execution
 <div align="center">
 
 ![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AI Arch](https://img.shields.io/badge/AI_Solutions_Architect-Training-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
@@ -114,10 +114,10 @@ I operate at the **intersection of product strategy and deep technical execution
 ## 💼 Career Snapshot
 
 ```
-🏢  Principal TPM / TPgM     →   Asurion        Dec 2023 – Present
-🏢  Sr. Technical PM         →   Asurion        Jan 2017 – Dec 2023
+🏢  Principal TPM / TPgM      →   Asurion        Dec 2023 – Present
+🏢  Sr. Technical PM          →   Asurion        Jan 2017 – Dec 2023
 🏦  Sr. Data/Product Analyst  →   Fannie Mae     Jan 2015 – Jan 2017
-🏭  Manager, Product Mgmt    →   Pentair        Aug 2009 – May 2013
+🏭  Manager, Product Mgmt     →   Pentair        Aug 2009 – May 2013
 ```
 
 ---
@@ -128,8 +128,6 @@ I operate at the **intersection of product strategy and deep technical execution
 
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitgambhir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitgambhir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
 </div>
 
 ---
