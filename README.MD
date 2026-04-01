@@ -44,7 +44,7 @@ Right now I'm focused on **moving LLM and RAG capabilities from promising demos 
 
 ## ✍️ Blogs & Builds
 
-I write about **AI product strategy**, **developer platforms**, and what it actually takes to ship GenAI in the enterprise — moving past the hype into things that work at scale.
+I share about **AI product strategy**, **developer platforms**, and what it actually takes to ship GenAI in the enterprise — moving past the hype into things that work at scale.
 
 | | What I Explore |
 |:---:|---|
