@@ -103,9 +103,12 @@ I operate at the **intersection of product strategy and deep technical execution
 
 <div align="center">
 
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AI Arch](https://img.shields.io/badge/AI_Solutions_Architect-Training-412991?style=for-the-badge&logo=openai&logoColor=white)
+| Badge | Certification |
+|:---:|:---|
+| ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | **AWS Certified Solutions Architect – Associate** |
+| ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | **AWS Certified Cloud Practitioner** |
+| ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | **AWS Technical Professional** · **AWS Security Fundamentals** |
+| ![AI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | **AI Solutions Architect** – Training |
 
 </div>
 
