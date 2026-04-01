@@ -101,7 +101,7 @@ I operate at the **intersection of product strategy and deep technical execution
 
 ## 🏅 Certifications
 
-<div align="center">
+<div align="left">
 
 🏆 **AWS Certified Solutions Architect** – Associate
 
