@@ -103,10 +103,8 @@ I operate at the **intersection of product strategy and deep technical execution
 
 <div align="center">
 
-# 🏅 Certifications & Training
-
-- 🏆 **AWS Certified Solutions Architect** – Associate
-- ☁️ **AWS Certified Cloud Practitioner**
+🏆 **AWS Certified Solutions Architect** – Associate
+☁️ **AWS Certified Cloud Practitioner**
 
 </div>
 
