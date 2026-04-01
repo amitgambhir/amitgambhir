@@ -122,16 +122,6 @@ I operate at the **intersection of product strategy and deep technical execution
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitgambhir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117)
-&nbsp;&nbsp;
-</div>
-
----
-
 <div align="center">
 
 *"Great products don't come from great demos — they come from teams that can hold a technical vision and an execution plan in the same hand."*
