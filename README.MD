@@ -62,7 +62,7 @@ I share about **AI product strategy**, **developer platforms**, and what it actu
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -70,7 +70,7 @@ I share about **AI product strategy**, **developer platforms**, and what it actu
 ![GitHub Streak](https://streak-stats.demolab.com?user=amitgambhir&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
-
+-->
 ---
 
 <div align="center">
