@@ -70,9 +70,9 @@ I share about **AI product strategy**, **developer platforms**, and what it actu
 ![GitHub Streak](https://streak-stats.demolab.com?user=amitgambhir&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
-
----
 -->
+---
+
 <div align="center">
 
 *"Great products don't come from great demos — they come from teams that can hold a technical vision and an execution plan in the same hand."*
