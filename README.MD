@@ -20,7 +20,7 @@
 
 ## 🧭 About Me
 
-> *"I'm the person teams call when the program is complex, the architecture isn't settled, and multiple teams need to ship as one."*
+> *I'm the person teams call when the program is complex, the architecture isn't settled, and multiple teams need to ship as one.*
 
 For **15+ years**, I've been turning ambiguous, high-stakes technical challenges into production-grade systems — across **AI/GenAI platforms**, **enterprise APIs**, **cloud modernization**, and **developer ecosystems**.
 
