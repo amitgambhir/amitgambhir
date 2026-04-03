@@ -12,6 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amitgambhir.com-2c5364?style=for-the-badge)](https://amitgambhir.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitgambhir)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitgambhir)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/amitgambhir)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gambhir.amit@gmail.com)
 
 </div>
