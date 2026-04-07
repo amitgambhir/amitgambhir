@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Amit
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Principal+Technical+Program+%26+Product+Leader;AI+Platforms+%7C+RAG+%7C+LLM+Orchestration;Developer+Experience+%7C+Cloud+Transformation;15%2B+Years+Turning+Vision+into+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Technical+Program+%26+Product+Leader;AI+Systems+Design+%C2%B7+Multi-Agent+Architectures+%C2%B7+RAG;From+Vision+to+Production+at+Scale" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -22,17 +22,70 @@
 
 ## 🧭 About Me
 
-> *I'm the person teams call when the program is complex, the architecture isn't settled, and multiple teams need to ship as one.*
+> *I design and operationalize AI systems that move beyond single-use tools — toward coordinated, reliable, and governable workflows.*
 
-For **15+ years**, I've been turning ambiguous, high-stakes technical challenges into production-grade systems — across **AI/GenAI platforms**, **enterprise APIs**, **cloud modernization**, and **developer ecosystems**.
+My work sits at the intersection of **product thinking**, **system architecture**, and **execution at scale** — backed by 15+ years of turning ambiguous, high-stakes technical challenges into production-grade systems.
 
-Right now I'm focused on **moving LLM and RAG capabilities from promising demos into reliable enterprise products** — with real evaluation frameworks, observability, and production-grade guardrails.
+👉 Building **AI-native operating models** for how teams work in the AI era
 
-→ *Full story, experience & writing at **[amitgambhir.com](https://amitgambhir.com)***
+Currently exploring:
+- **Multi-agent system design** — how agents coordinate, not just execute
+- **RAG + memory architectures** — moving beyond stateless interactions
+- **Governance models for AI-driven workflows** — reliability over unchecked autonomy
+
+→ *Read the full story at **[amitgambhir.com](https://amitgambhir.com)***
 
 ---
 
-## 🚀 Product Impact Highlights
+## 🧠 How I Think About AI Systems
+
+I approach AI as a **systems problem**, not a tooling problem.
+
+| Principle | Over |
+|:---|:---|
+| **Coordination** | Isolated intelligence |
+| **Governance** | Unchecked autonomy |
+| **Memory** | Stateless interactions |
+| **Simplicity** | Over-engineered orchestration |
+
+*The goal is not to replace humans — but to redesign how work flows in AI-enabled systems.*
+
+---
+
+## 🧩 What This Work Connects To
+
+Across these projects, I’m exploring one core question:
+
+👉 How do AI systems evolve from tools → coordinated, reliable, decision-driven systems?
+
+Each project tackles a different layer:
+- Evaluation (RAG Auditor)
+- Architecture (System Design Guide)
+- Execution (Multi-LLM Agent)
+- Governance (Inner Circle AI)
+
+---
+
+## 🚀 Featured System — Inner Circle AI
+
+A governance-first AI operating model for coordinating multi-agent workflows that introduces **structured coordination and decision governance** into AI workflows.
+
+| | Concept |
+|:---:|---|
+| 🏛️ | **Role-based agent architecture** — Research, Engineering, Growth, Ops |
+| 🎯 | **Central coordination layer** — Chief of Staff model |
+| ✅ | **Human-in-the-loop governance** — approval-driven execution |
+
+**Focus:**
+- Reliability over autonomy
+- Coordination over isolated outputs
+- Systems thinking over prompt engineering
+
+🔗 [Repository](https://github.com/amitgambhir/inner-circle-ai) · 📄 [Architecture](https://github.com/amitgambhir/inner-circle-ai/blob/main/docs/ARCHITECTURE.md) · ✍️ Deep dive — *coming soon*
+
+---
+
+## 📊 Enterprise Impact Highlights
 
 | | Initiative | Outcome |
 |:---:|---|---|
@@ -44,43 +97,54 @@ Right now I'm focused on **moving LLM and RAG capabilities from promising demos 
 
 ---
 
-## ✍️ Blogs & Builds
+## 🔭 What I'm Driving Toward
 
-I share about **AI product strategy**, **developer platforms**, and what it actually takes to ship GenAI in the enterprise — moving past the hype into things that work at scale.
-
-| | What I Explore |
-|:---:|---|
-| 🤖 | How LLMs move from promising demos to production-grade systems |
-| 🔌 | What great DX looks like when your customer is an engineer |
-| 📐 | Building platform primitives that teams actually want to adopt |
-| 🧠 | Strategy & trade-offs at the intersection of PM and engineering |
-
-<div align="center">
-
-<br/>
-<!--
-[![Read More](https://img.shields.io/badge/✍️_Read_My_Writing_&_Builds-amitgambhir.com-2c5364?style=for-the-badge)](https://amitgambhir.com)
-
-</div>
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amitgambhir&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
--->
+- AI-native operating models for teams
+- Systems that combine automation with human decision control
+- Scalable patterns for multi-agent coordination
+- Production-ready AI architectures with observability and governance
 
 ---
 
+## 📂 Featured Projects
+
+| | Project | What It Demonstrates |
+|:---:|---|---|
+| 🏛️ | [**Inner Circle AI**](https://github.com/amitgambhir/inner-circle-ai) | Multi-agent governance framework with approval-driven execution |
+| 🔍 | [**RAG Auditor**](https://github.com/amitgambhir/rag-auditor) | Open source RAG evaluation — faithfulness, relevancy, hallucination risk |
+| 📐 | [**RAG System Design Guide**](https://github.com/amitgambhir/rag-system-design-guide) | Practitioner guide to designing and operating production RAG systems |
+| 🤖 | [**Multi-LLM RAG Agent Chat**](https://github.com/amitgambhir/multi-llm-rag-agent-chat) | Production RAG chatbot with intelligent multi-LLM routing |
+| 📋 | [**AI Feature PRD Toolkit**](https://github.com/amitgambhir/ai-feature-prd-toolkit) | Templates and scorecards for AI-native feature requirements |
+| 🎓 | [**Claude Certified Architect Guide**](https://github.com/amitgambhir/claude-certified-architect-guide) | Study guide for AI architecture certification — 10 domains, quiz, cheat sheet |
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on:
+- **AI platform design**
+- **Agentic systems in production**
+- **Scalable AI architectures**
+
+Always open to conversations on how AI is reshaping product and program execution.
+
 <div align="center">
 
-*"Great products don't come from great demos — they come from teams that can hold a technical vision and an execution plan in the same hand."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitgambhir)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gambhir_amit)
+
+</div>
+
+---
+
+<div align="center">
+
+*Most people are asking: "How can I use AI?"*
+
+*I'm more interested in: "How should work be structured in a world where AI exists?"*
 
 <br/>
 
-[![Visit Portfolio](https://img.shields.io/badge/🌐_See_the_Full_Story-amitgambhir.com-2c5364?style=for-the-badge)](https://amitgambhir.com)
+[![Visit Portfolio](https://img.shields.io/badge/🌐_Read_the_Full_Story-amitgambhir.com-2c5364?style=for-the-badge)](https://amitgambhir.com)
 
 </div>
