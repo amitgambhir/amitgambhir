@@ -81,8 +81,7 @@ A governance-first AI operating model for coordinating multi-agent workflows tha
 - Coordination over isolated outputs
 - Systems thinking over prompt engineering
 
-🔗 [Repository](https://github.com/amitgambhir/inner-circle-ai) · 📄 [Architecture](https://github.com/amitgambhir/inner-circle-ai/blob/main/docs/ARCHITECTURE.md) · ✍️ Deep dive — *coming soon*
-
+🔗 [Repository](https://github.com/amitgambhir/inner-circle-ai) · 📄 [Architecture](https://github.com/amitgambhir/inner-circle-ai/blob/main/docs/ARCHITECTURE.md) · ✍️ [Deep dive] (https://www.amitgambhir.com/blog/an-ai-leadership-team)
 ---
 
 ## 📊 Enterprise Impact Highlights
