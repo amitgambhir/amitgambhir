@@ -138,9 +138,9 @@ Always open to conversations on how AI is reshaping product and program executio
 
 <div align="center">
 
-*Most people are asking: "How can I use AI?"*
+### *Most people are asking: "How can I use AI?"*
 
-*I'm more interested in: "How should work be structured in a world where AI exists?"*
+### *I'm more interested in: "How should work be structured in a world where AI exists?"*
 
 <br/>
 
