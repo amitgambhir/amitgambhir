@@ -63,7 +63,7 @@ Each project tackles a different layer:
 - Architecture (System Design Guide)
 - Execution (Multi-LLM Agent)
 - Governance (Inner Circle AI)
-- Your own knowledgebase (LLM Wiki Blueprint)
+- Your own knowledge base (LLM Wiki Blueprint)
 
 ---
 
