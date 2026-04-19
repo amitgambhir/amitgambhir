@@ -126,12 +126,10 @@ I write about AI product strategy, agentic systems, and the tools I build → [a
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on:
-- **AI platform design**
-- **Agentic systems in production**
-- **Scalable AI architectures**
-
-Always open to conversations on how AI is reshaping product and program execution.
+I'm interested in conversations about:
+- **AI product and program leadership** — building the right things, in the right order, at scale
+- **Agentic systems in production** — governance, reliability, and human oversight that actually holds
+- **Teams shipping AI features** that users can trust
 
 <div align="center">
 
