@@ -14,7 +14,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitgambhir)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/amitgambhir)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gambhir_amit)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gambhir.amit@gmail.com)
 
 </div>
 
@@ -111,9 +110,10 @@ A governance-first AI operating model for coordinating multi-agent workflows tha
 | | Project | What It Demonstrates |
 |:---:|---|---|
 | 🏛️ | [**Inner Circle AI**](https://github.com/amitgambhir/inner-circle-ai) | Multi-agent governance framework with approval-driven execution |
+| 🧠 | [**LLM Wiki Blueprint**](https://github.com/amitgambhir/llm-wiki-blueprint) | Self-maintaining knowledge base for technical leaders — decisions that compound, not disappear |
 | 🔍 | [**RAG Auditor**](https://github.com/amitgambhir/rag-auditor) | Open source RAG evaluation — faithfulness, relevancy, hallucination risk |
-| 📐 | [**RAG System Design Guide**](https://github.com/amitgambhir/rag-system-design-guide) | Practitioner guide to designing and operating production RAG systems |
 | 🤖 | [**Multi-LLM RAG Agent Chat**](https://github.com/amitgambhir/multi-llm-rag-agent-chat) | Production RAG chatbot with intelligent multi-LLM routing |
+| 📋 | [**AI Feature PRD Toolkit**](https://github.com/amitgambhir/ai-feature-prd-toolkit) | Templates and scorecards for writing AI-native feature requirements |
 | 📋 | [**AI Feature PRD Toolkit**](https://github.com/amitgambhir/ai-feature-prd-toolkit) | Templates and scorecards for AI-native feature requirements |
 | 🎓 | [**Claude Certified Architect Guide**](https://github.com/amitgambhir/claude-certified-architect-guide) | Study guide for AI architecture certification — 10 domains, quiz, cheat sheet |
 
