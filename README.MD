@@ -59,7 +59,7 @@ Across these projects, I’m exploring one core question:
 
 Each project tackles a different layer:
 - Evaluation (RAG Auditor)
-- Architecture (System Design Guide)
+- Architecture (RAG System Design Guide)
 - Execution (Multi-LLM Agent)
 - Governance (Inner Circle AI)
 - Your own knowledge base (LLM Wiki Blueprint)
@@ -114,7 +114,6 @@ A governance-first AI operating model for coordinating multi-agent workflows tha
 | 🔍 | [**RAG Auditor**](https://github.com/amitgambhir/rag-auditor) | Open source RAG evaluation — faithfulness, relevancy, hallucination risk |
 | 🤖 | [**Multi-LLM RAG Agent Chat**](https://github.com/amitgambhir/multi-llm-rag-agent-chat) | Production RAG chatbot with intelligent multi-LLM routing |
 | 📋 | [**AI Feature PRD Toolkit**](https://github.com/amitgambhir/ai-feature-prd-toolkit) | Templates and scorecards for writing AI-native feature requirements |
-| 📋 | [**AI Feature PRD Toolkit**](https://github.com/amitgambhir/ai-feature-prd-toolkit) | Templates and scorecards for AI-native feature requirements |
 | 🎓 | [**Claude Certified Architect Guide**](https://github.com/amitgambhir/claude-certified-architect-guide) | Study guide for AI architecture certification — 10 domains, quiz, cheat sheet |
 
 ---
