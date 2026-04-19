@@ -58,11 +58,12 @@ Across these projects, I’m exploring one core question:
 👉 How do AI systems evolve from tools → coordinated, reliable, decision-driven systems?
 
 Each project tackles a different layer:
-- Evaluation (RAG Auditor)
-- Architecture (RAG System Design Guide)
-- Execution (Multi-LLM Agent)
-- Governance (Inner Circle AI)
-- Your own knowledge base (LLM Wiki Blueprint)
+- **Requirements** — AI Feature PRD Toolkit
+- **Decision impact** — Blast Radius Analyzer
+- **Governance & execution** — Inner Circle AI
+- **Behavioral evaluation** — agent-eval-kit
+- **RAG build & evaluation** — Multi-LLM RAG Agent Chat + RAG Auditor
+- **Knowledge management** — LLM Wiki Blueprint
 
 ---
 
@@ -110,9 +111,11 @@ A governance-first AI operating model for coordinating multi-agent workflows tha
 | | Project | What It Demonstrates |
 |:---:|---|---|
 | 🏛️ | [**Inner Circle AI**](https://github.com/amitgambhir/inner-circle-ai) | Multi-agent governance framework with approval-driven execution |
+| 🧪 | [**agent-eval-kit**](https://github.com/amitgambhir/agent-eval-kit) | Behavioral evaluation for agents — did they honor their spec? Claude-as-judge, PR-gated CI |
 | 🧠 | [**LLM Wiki Blueprint**](https://github.com/amitgambhir/llm-wiki-blueprint) | Self-maintaining knowledge base for technical leaders — decisions that compound, not disappear |
 | 🔍 | [**RAG Auditor**](https://github.com/amitgambhir/rag-auditor) | Open source RAG evaluation — faithfulness, relevancy, hallucination risk |
 | 🤖 | [**Multi-LLM RAG Agent Chat**](https://github.com/amitgambhir/multi-llm-rag-agent-chat) | Production RAG chatbot with intelligent multi-LLM routing |
+| 💥 | [**Blast Radius Analyzer**](https://github.com/amitgambhir/blast-radius-analyzer) | Maps technical and organizational impact of decisions before they're made |
 | 📋 | [**AI Feature PRD Toolkit**](https://github.com/amitgambhir/ai-feature-prd-toolkit) | Templates and scorecards for writing AI-native feature requirements |
 | 🎓 | [**Claude Certified Architect Guide**](https://github.com/amitgambhir/claude-certified-architect-guide) | Study guide for AI architecture certification — 10 domains, quiz, cheat sheet |
 
