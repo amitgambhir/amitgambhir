@@ -118,6 +118,12 @@ A governance-first AI operating model for coordinating multi-agent workflows tha
 
 ---
 
+## ✍️ Writing
+
+I write about AI product strategy, agentic systems, and the tools I build → [amitgambhir.com](https://amitgambhir.com)
+
+---
+
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on:
