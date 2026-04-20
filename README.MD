@@ -134,6 +134,7 @@ I'm interested in conversations about:
 - **Agentic systems in production** — governance, reliability, and human oversight that actually holds
 - **Teams shipping AI features** that users can trust
 
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitgambhir)
