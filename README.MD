@@ -61,7 +61,7 @@ Each project tackles a different layer:
 - **Requirements** — AI Feature PRD Toolkit
 - **Decision impact** — Blast Radius Analyzer
 - **Governance & execution** — Inner Circle AI
-- **Behavioral evaluation** — agent-eval-kit
+- **Behavioral evaluation** — Agent Eval Kit
 - **RAG build & evaluation** — Multi-LLM RAG Agent Chat + RAG Auditor
 - **Knowledge management** — LLM Wiki Blueprint
 
