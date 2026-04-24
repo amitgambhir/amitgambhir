@@ -21,7 +21,7 @@
 
 ## 🧭 About Me
 
-> *I design and operationalize AI systems that move beyond single-use tools — toward coordinated, reliable, and governable workflows.*
+> *I define, build, and scale AI-driven products that move beyond single-use tools — toward coordinated, reliable, and governable workflows.*
 
 My work sits at the intersection of **product thinking**, **system architecture**, and **execution at scale** — backed by 15+ years of turning ambiguous, high-stakes technical challenges into production-grade systems.
 
