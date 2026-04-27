@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Amit
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Technical+Product+%26+Program+Leader;AI%26+Agentic+Platforms+%7C+APIs+%26+Developer+Experience;From+Vision+to+Production+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Technical+Product+%26+Program+Leader;AI+%26+Agentic+Platforms+%7C+APIs+%26+Developer+Experience;From+Vision+to+Production+at+Scale" alt="Typing SVG" />
 </a>
 
 <br/><br/>
