@@ -62,7 +62,7 @@ Each project tackles a different layer:
 - **Decision impact** — Blast Radius Analyzer
 - **Governance & execution** — Inner Circle AI
 - **Behavioral evaluation** — Agent Eval Kit
-- **RAG build & evaluation** — Multi-LLM RAG Agent Chat + RAG Auditor
+- **RAG build & evaluation** — Multi-LLM RAG Agent Chat, Multimodal Agentic RAG + RAG Auditor
 - **Knowledge management** — LLM Wiki Blueprint, RAG System Design Guide, AI Terms & Myths
 
 ---
@@ -115,6 +115,7 @@ A governance-first AI operating model for coordinating multi-agent workflows tha
 | 🧠 | [**LLM Wiki Blueprint**](https://github.com/amitgambhir/llm-wiki-blueprint) | Self-maintaining knowledge base for technical leaders — decisions that compound, not disappear |
 | 🔍 | [**RAG Auditor**](https://github.com/amitgambhir/rag-auditor) | Open source RAG evaluation — faithfulness, relevancy, hallucination risk |
 | 🤖 | [**Multi-LLM RAG Agent Chat**](https://github.com/amitgambhir/multi-llm-rag-agent-chat) | Production RAG chatbot with intelligent multi-LLM routing |
+| 🖼️ | [**Multimodal Agentic RAG**](https://github.com/amitgambhir/multimodal-agentic-rag) | Multimodal RAG with runtime Claude↔Gemini switching, caption-then-embed for images, streaming SSE + prompt caching, and a 3D embedding-space visualizer |
 | 💥 | [**Blast Radius Analyzer**](https://github.com/amitgambhir/blast-radius-analyzer) | Maps technical and organizational impact of decisions before they're made |
 | 📋 | [**AI Feature PRD Toolkit**](https://github.com/amitgambhir/ai-feature-prd-toolkit) | Templates and scorecards for writing AI-native feature requirements |
 | 🎓 | [**Claude Certified Architect Guide**](https://github.com/amitgambhir/claude-certified-architect-guide) | Study guide for AI architecture certification — 10 domains, quiz, cheat sheet |
