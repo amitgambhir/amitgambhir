@@ -112,13 +112,12 @@ A governance-first AI operating model for coordinating multi-agent workflows tha
 |:---:|---|---|
 | 🏛️ | [**Inner Circle AI**](https://github.com/amitgambhir/inner-circle-ai) | Multi-agent governance framework with approval-driven execution |
 | 🧪 | [**agent-eval-kit**](https://github.com/amitgambhir/agent-eval-kit) | Behavioral evaluation for agents — did they honor their spec? Claude-as-judge, PR-gated CI |
-| 🧠 | [**LLM Wiki Blueprint**](https://github.com/amitgambhir/llm-wiki-blueprint) | Self-maintaining knowledge base for technical leaders — decisions that compound, not disappear |
-| 🔍 | [**RAG Auditor**](https://github.com/amitgambhir/rag-auditor) | Open source RAG evaluation — faithfulness, relevancy, hallucination risk |
 | 🤖 | [**Multi-LLM RAG Agent Chat**](https://github.com/amitgambhir/multi-llm-rag-agent-chat) | Production RAG chatbot with intelligent multi-LLM routing |
 | 🖼️ | [**Multimodal Agentic RAG**](https://github.com/amitgambhir/multimodal-agentic-rag) | Multimodal RAG with runtime Claude↔Gemini switching, caption-then-embed for images, streaming SSE + prompt caching, and a 3D embedding-space visualizer |
+| 🔍 | [**RAG Auditor**](https://github.com/amitgambhir/rag-auditor) | Open source RAG evaluation — faithfulness, relevancy, hallucination risk |
 | 💥 | [**Blast Radius Analyzer**](https://github.com/amitgambhir/blast-radius-analyzer) | Maps technical and organizational impact of decisions before they're made |
 | 📋 | [**AI Feature PRD Toolkit**](https://github.com/amitgambhir/ai-feature-prd-toolkit) | Templates and scorecards for writing AI-native feature requirements |
-| 🎓 | [**Claude Certified Architect Guide**](https://github.com/amitgambhir/claude-certified-architect-guide) | Study guide for AI architecture certification — 10 domains, quiz, cheat sheet |
+| ⚡ | [**LLM Inference Bench**](https://github.com/amitgambhir/llm-inference-bench) | Benchmarks LLM inference endpoints under realistic workloads — latency, throughput, and vLLM config recommendations |
 
 ---
 
