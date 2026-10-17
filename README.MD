@@ -4,14 +4,13 @@
 # 👋 Hi, I'm Amit
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=800&lines=Technical+Product+%26+Program+Leader;AI+%26+Agentic+Platforms+%7C+APIs+%26+Developer+Experience;From+Vision+to+Production+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=AI+Solutions+Architect+%26+Technical+Product+Manager;AI+Infrastructure+%26+Agentic+Platforms;Open-Source+Models%3A+Training+to+Production" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amitgambhir.com-2c5364?style=for-the-badge)](https://amitgambhir.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amitgambhir.com-0d9488?style=for-the-badge)](https://amitgambhir.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitgambhir)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitgambhir)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/amitgambhir)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gambhir_amit)
 
@@ -21,137 +20,65 @@
 
 ## 🧭 About Me
 
-> *I define, build, and scale AI-driven products that move beyond single-use tools — toward coordinated, reliable, and governable workflows.*
+I'm a builder who has spent 15+ years in the gap between "this works in a demo" and "this works in production." I started on product and platform teams, led an enterprise RAG/LLM platform from first prototype to something the business trusted in live, high-stakes workflows, and now work as an AI Solutions Architect.
 
-My work sits at the intersection of **product thinking**, **system architecture**, and **execution at scale** — backed by 15+ years of turning ambiguous, high-stakes technical challenges into production-grade systems.
+What I care about most are the decisions that look technical but are really business decisions: which model is good enough, shared API or dedicated GPUs, how much latency and cost a product can take. Get them wrong and you pay for GPUs you don't need, or ship something nobody will wait for.
 
-👉 Building **AI-native operating models** for how teams work in the AI era
+The lesson I keep coming back to: **AI products rarely fail because of the model. They fail on everything around it.**
 
-Currently exploring:
-- **Multi-agent system design** — how agents coordinate, not just execute
-- **RAG + memory architectures** — moving beyond stateless interactions
-- **Governance models for AI-driven workflows** — reliability over unchecked autonomy
-
-→ *Read the full story at **[amitgambhir.com](https://amitgambhir.com)***
+This GitHub is where I build to learn. Most of what's here started as a question I couldn't answer from docs or vendor benchmarks, so I built something and measured it.
 
 ---
 
-## 🧠 How I Think About AI Systems
+## 🛰️ How I Approach a Problem
 
-I approach AI as a **systems problem**, not a tooling problem.
-
-| Principle | Over |
-|:---|:---|
-| **Coordination** | Isolated intelligence |
-| **Governance** | Unchecked autonomy |
-| **Memory** | Stateless interactions |
-| **Simplicity** | Over-engineered orchestration |
-
-*The goal is not to replace humans — but to redesign how work flows in AI-enabled systems.*
+1. **Start with the workload.** What does "good" mean here: quality, latency, throughput, cost? Write it down first.
+2. **Make the trade-offs on purpose.** API vs. dedicated, vLLM vs. SGLang vs. TRT-LLM, which GPU, which quantization. Say what you rejected and why.
+3. **Prove it on real traffic.** Load tests and concurrency sweeps, and report what missed, too.
+4. **Plan for day two.** Cold starts, autoscaling, observability, and the bill.
 
 ---
 
-## 🧩 What This Work Connects To
+## 🛠️ What I'm Into Right Now
 
-Across these projects, I’m exploring one core question:
-
-👉 How do AI systems evolve from tools → coordinated, reliable, decision-driven systems?
-
-Each project tackles a different layer:
-- **Requirements** — AI Feature PRD Toolkit
-- **Decision impact** — Blast Radius Analyzer
-- **Governance & execution** — Inner Circle AI
-- **Behavioral evaluation** — Agent Eval Kit
-- **RAG build & evaluation** — Multi-LLM RAG Agent Chat, Multimodal Agentic RAG + RAG Auditor
-- **Knowledge management** — LLM Wiki Blueprint, RAG System Design Guide, AI Terms & Myths
+- **Inference serving:** vLLM, SGLang, TensorRT-LLM · batching, KV cache, quantization, speculative decoding
+- **Performance & sizing:** TTFT / TPOT under concurrency · GPU selection · cost per token
+- **Evaluating AI systems:** RAG evaluation (RAGAS, LLM-as-judge) and behavioral evals for agents
+- **Agents with guardrails:** multi-agent setups where a human still approves what matters
 
 ---
 
-## 🚀 Featured System — Inner Circle AI
+## 🧪 Things I've Built
 
-A governance-first AI operating model for coordinating multi-agent workflows that introduces **structured coordination and decision governance** into AI workflows.
-
-| | Concept |
-|:---:|---|
-| 🏛️ | **Role-based agent architecture** — Research, Engineering, Growth, Ops |
-| 🎯 | **Central coordination layer** — Chief of Staff model |
-| ✅ | **Human-in-the-loop governance** — approval-driven execution |
-
-**Focus:**
-- Reliability over autonomy
-- Coordination over isolated outputs
-- Systems thinking over prompt engineering
-
-🔗 [Repository](https://github.com/amitgambhir/inner-circle-ai) · 📄 [Architecture](https://github.com/amitgambhir/inner-circle-ai/blob/main/docs/ARCHITECTURE.md) · ✍️ [Deep dive](https://www.amitgambhir.com/blog/an-ai-leadership-team)
----
-
-## 📊 Enterprise Impact Highlights
-
-| | Initiative | Outcome |
+| | Project | What It Is |
 |:---:|---|---|
-| 🤖 | **AI Decision Platform** (LLM + RAG) | $6M+ annual savings · 40% accuracy ↑ · 30% faster resolution |
-| 🔄 | **Trade-In Platform** (0→1 in-house) | $5M Y1 savings · $70M revenue trajectory by Y3 |
-| 🔌 | **Enterprise API Platform** | 20M+ annual transactions · Amazon, AT&T, Verizon · 50% faster onboarding |
-| ☁️ | **Cloud Modernization** (Monolith → Microservices) | 30% faster deployments · 99.9%+ SLA · MTTR ↓ 33% |
-| 🛒 | **D2C Platform Re-Architecture** | Real-time replacement for 75% of digital txns · 65% churn reduction |
-
----
-
-## 🔭 What I'm Driving Toward
-
-- AI-native operating models for teams
-- Systems that combine automation with human decision control
-- Scalable patterns for multi-agent coordination
-- Production-ready AI architectures with observability and governance
-
----
-
-## 📂 Featured Projects
-
-| | Project | What It Demonstrates |
-|:---:|---|---|
-| 🏛️ | [**Inner Circle AI**](https://github.com/amitgambhir/inner-circle-ai) | Multi-agent governance framework with approval-driven execution |
-| 🧪 | [**agent-eval-kit**](https://github.com/amitgambhir/agent-eval-kit) | Behavioral evaluation for agents — did they honor their spec? Claude-as-judge, PR-gated CI |
-| 🤖 | [**Multi-LLM RAG Agent Chat**](https://github.com/amitgambhir/multi-llm-rag-agent-chat) | Production RAG chatbot with intelligent multi-LLM routing |
-| 🖼️ | [**Multimodal Agentic RAG**](https://github.com/amitgambhir/multimodal-agentic-rag) | Multimodal RAG with runtime Claude↔Gemini switching, caption-then-embed for images, streaming SSE + prompt caching, and a 3D embedding-space visualizer |
-| 🔍 | [**RAG Auditor**](https://github.com/amitgambhir/rag-auditor) | Open source RAG evaluation — faithfulness, relevancy, hallucination risk |
-| 💥 | [**Blast Radius Analyzer**](https://github.com/amitgambhir/blast-radius-analyzer) | Maps technical and organizational impact of decisions before they're made |
-| 📋 | [**AI Feature PRD Toolkit**](https://github.com/amitgambhir/ai-feature-prd-toolkit) | Templates and scorecards for writing AI-native feature requirements |
-| ⚡ | [**LLM Inference Bench**](https://github.com/amitgambhir/llm-inference-bench) | Benchmarks LLM inference endpoints under realistic workloads — latency, throughput, and vLLM config recommendations |
+| ⚡ | [**LLM Inference Bench**](https://github.com/amitgambhir/llm-inference-bench) | Llama 3.1 8B FP8 on an NVIDIA L4 with vLLM: concurrent load tests, quality evals, and a deployment advisor built on measured data |
+| 🔍 | [**RAG Auditor**](https://github.com/amitgambhir/rag-auditor) | Open-source RAG evaluation: scores faithfulness, relevancy, and hallucination risk |
+| 🧪 | [**agent-eval-kit**](https://github.com/amitgambhir/agent-eval-kit) | Tests whether agents honor their spec (role, scope, escalation, handoff) with Claude-as-judge and PR-gated CI |
+| 🖼️ | [**Multimodal Agentic RAG**](https://github.com/amitgambhir/multimodal-agentic-rag) | Multimodal RAG with runtime Claude↔Gemini switching, caption-then-embed for images, and a 3D embedding-space visualizer |
+| 🤖 | [**Multi-LLM RAG Agent Chat**](https://github.com/amitgambhir/multi-llm-rag-agent-chat) | Containerized RAG chatbot that routes queries between GPT-4o and Gemini by complexity |
+| 🏛️ | [**Inner Circle AI**](https://github.com/amitgambhir/inner-circle-ai) | Five AI agents, one team, and you're the CEO: a file-based multi-agent framework with approval governance |
+| 🌐 | [**amitgambhir.com**](https://amitgambhir.com) | My portfolio, with `@amit-ai`, a RAG chatbot on Claude + Voyage + pgvector that RAG Auditor grades |
 
 ---
 
 ## ✍️ Writing
 
-I write about AI product strategy, agentic systems, and the tools I build → [amitgambhir.com](https://amitgambhir.com)
+I write about inference, RAG, agents, and whatever I'm building at the moment → [amitgambhir.com/blog](https://amitgambhir.com/blog)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Say Hi
 
-I'm interested in conversations about:
-- **AI product and program leadership** — building the right things, in the right order, at scale
-- **Agentic systems in production** — governance, reliability, and human oversight that actually holds
-- **Teams shipping AI features** that users can trust
-
+I'm always up for a conversation about running open-source models in production, how to choose between APIs and dedicated GPUs, or RAG and agent systems that hold up under real traffic.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitgambhir)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gambhir_amit)
 
-</div>
-
----
-
-<div align="center">
-
-### *Most people are asking: "How can I use AI?"*
-
-### *I'm more interested in: "How should work be structured in a world where AI exists?"*
-
 <br/>
 
-[![Visit Portfolio](https://img.shields.io/badge/🌐_Read_the_Full_Story-amitgambhir.com-2c5364?style=for-the-badge)](https://amitgambhir.com)
+*AI products rarely fail because of the model. They fail on everything around it.*
 
 </div>
