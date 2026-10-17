@@ -79,6 +79,4 @@ I'm always up for a conversation about running open-source models in production,
 
 <br/>
 
-*Open to AI product collaborations, defining AI platform and solution design work, advisory roles, and strategic leadership conversations..*
-
 </div>
