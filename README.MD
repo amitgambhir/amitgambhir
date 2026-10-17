@@ -79,6 +79,6 @@ I'm always up for a conversation about running open-source models in production,
 
 <br/>
 
-*AI products rarely fail because of the model. They fail on everything around it.*
+*Open to AI product collaborations, defining AI platform and solution design work, advisory roles, and strategic leadership conversations..*
 
 </div>
